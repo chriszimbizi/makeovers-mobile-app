@@ -31,6 +31,11 @@ To facilitate user registration and account creation, we implemented user signup
 ### Navigation
 To enhance user experience and improve navigation within the landing page, we strategically placed navigation links that enable users to move seamlessly between different sections. This intuitive navigation design allows visitors to explore the app's offerings and quickly find the information they need.
 
+## Screenshots
+
+<img src="https://github.com/chriszimbizi/makeovers-mobile-app/assets/121321293/20596cf6-42cf-4eb1-ac01-7bf7fed646e5" height="350" alt="mobile-design" />
+<img src="https://github.com/chriszimbizi/makeovers-mobile-app/assets/121321293/e2241f6f-e2f4-4cd5-8c73-586d3370dabb" height="350" alt="desktop-design"/>
+
 ## Conclusion
 
 We are proud to present the completed Makeovers Mobile App Landing Page, a testament to our skills, dedication, and teamwork. This project has allowed us to showcase our front-end web development abilities, particularly in building responsive landing pages using HTML, CSS, and Bootstrap. Moreover, the experience of collaborating in pairs has strengthened our communication, problem-solving, and collaborative skills.
