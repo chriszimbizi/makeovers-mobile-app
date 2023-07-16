@@ -41,6 +41,16 @@ h2 {
   object-fit: cover;
 }
 
+/* Gallery Item Hover Effect */
+.portfolio-container:has(.portfolio-item:hover) .portfolio-item:not(:hover) {
+  scale: 0.8;
+  opacity: 0.8;
+}
+
+.portfolio .portfolio-item {
+  transition: scale 350ms ease, opacity 350ms linear;
+}
+
 /* Services */
 .services-list {
   padding-top: 0;
